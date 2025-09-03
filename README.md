@@ -43,8 +43,8 @@ python DOL_dragon.py
 
 Pliki
 
-DOL_dragon.py – smok Heighwaya (D0L)
-DOL_koch.py – krzywa Kocha (D0L)
-DOL_Sierpinski_triangle.py – trójkąt Sierpińskiego (D0L)
-stochastic.py – drzewko losowe (stochastyczny)
-parametric_fern.py – liście/paprocie (parametryczny)
+- DOL_dragon.py – smok Heighwaya (D0L)
+- DOL_koch.py – krzywa Kocha (D0L)
+- DOL_Sierpinski_triangle.py – trójkąt Sierpińskiego (D0L)
+- stochastic.py – drzewko losowe (stochastyczny)
+- parametric_fern.py – liście/paprocie (parametryczny)
